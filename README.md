@@ -1,6 +1,6 @@
 
 <div align=center>
-    <h1>🤓 Network Security</h1>
+    <h1>Network Security</h1>
 </div>
 
 <div align=center>
