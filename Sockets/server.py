@@ -12,6 +12,6 @@ while True:
     data = conn.recv(1024)
     if not data:
         print('Fechar conexão, sem dados')
-        conn.closed()
+        conn.close()
         break
     conn.sendall(data)
